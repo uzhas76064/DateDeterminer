@@ -3,7 +3,6 @@
     -fx-border-radius: 5px;
 }
 
-.determine {
+.determine, .github {
     -fx-cursor: hand;
 }
-
